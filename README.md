@@ -1,4 +1,5 @@
-![Screenshot (866)](https://github.com/Kanishk3204/Weather-Application/assets/97598953/e80b18f2-5de6-44d1-8046-f482678c4edc)
+
+![Screenshot (10)](https://github.com/Kanishk3204/Weather-Application/assets/97598953/175a72d7-93ac-490e-ae16-1040293f8e13)
 
 <br/>
 
