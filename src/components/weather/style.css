@@ -38,6 +38,9 @@ body {
   border-radius: 20px;
   box-shadow: 0 27px 55px 0 rgba(0, 0, 0, 0.3),
     0 17px 17px 0 rgba(0, 0, 0, 0.15);
+  position: fixed;
+  top: 20%;
+  right:28%;
 }
 .widget .weatherIcon {
   flex: 1 100%;
@@ -137,9 +140,10 @@ body {
 
 .search {
   width: 100%;
-  position: relative;
+  position: fixed;
   display: flex;
   justify-content: center;
+  top: 10%;
 }
 
 .searchTerm {
@@ -179,15 +183,6 @@ body {
   display: flex;
   justify-content: center;
   text-align: center;
-  margin-top: -150px;
+  margin-top: -250px;
   margin-bottom: 50px;
 }
-
-/*Resize the wrap to see the search bar change!*/
-/* .wrap {
-  width: 30%;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-} */
