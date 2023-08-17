@@ -12,7 +12,7 @@ The app is developed using React.js and material-UI.
 
 ## 💻 Live Demo:
 
-https://weatherbykushkash.netlify.app/
+[https://weatherbykushkash.netlify.app/](https://64de3225f3a3b41657cb8357--animated-heliotrope-f746d3.netlify.app/)
 
 <br/>
 
